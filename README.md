@@ -3,10 +3,10 @@ TicTacToe game with Java
 
 
 ## Day 1 of #100DaysOfCode
-Goal : Get familiar with Java syntax & Remind basic coding rules to boost my brain for the next projects.
-Date: 1/17/2021
-Start Time: 2:30pm
-End Time: 6:00pm
+Goal : Get familiar with Java syntax & Remind basic coding rules to boost my brain for the next projects.          
+Date: 1/17/2021            
+Start Time: 2:30pm         
+End Time: 6:00pm           
 
 ### New things I have learned 
 > 1. How to read Java input - "**use Scanner class!**"
