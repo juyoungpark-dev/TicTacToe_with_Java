@@ -31,7 +31,7 @@ End Time: 6:00pm
 >> =>(int)(Math.random()*9)
 >> 
 >> //get random element in an arraylist                       
->> =>import java.util.Rnadom;                        
+>> =>import java.util.Random;                        
 >> =>Random random = new Random();                         
 >> =>**[ArrayList].get(random.nextInt([ArrayList].size());**         
 
